@@ -1,1 +1,3 @@
 Mi nombre es Gabriel J. Roman. Nací y he vivido toda mi vida en Bayamón. Estuve en una escuela especializada en matemáticas, así que desde pequeño he estado integrado en las ciencias. Actualmente, estoy en mi cuarto año de Ciencias de Cómputo en Río Piedras. Siempre me han interesado las matemáticas, y en mi tiempo libre me dedicaba a dar tutorías de matemáticas online. Me han interesado los videojuegos por bastante tiempo, ya que muchos los jugamos sin pensar en el trabajo y esfuerzo que se necesita para crearlos. Me gustaría probar por mi cuenta un poco de la creación de videojuegos para posiblemente considerarlo como carrera en el futuro.
+
+![image](https://github.com/user-attachments/assets/b8ca81eb-1958-4d59-a885-141b7ae27316)
